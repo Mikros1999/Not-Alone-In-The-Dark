@@ -2383,7 +2383,7 @@ GameObject:
   - component: {fileID: 7600000}
   - component: {fileID: 7599999}
   m_Layer: 5
-  m_Name: Heart
+  m_Name: Heart 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2406,7 +2406,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.4903661}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -302, y: 164}
+  m_AnchoredPosition: {x: -123.5, y: 260.2}
   m_SizeDelta: {x: 100, y: 95}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &7599999
@@ -4024,7 +4024,7 @@ GameObject:
   - component: {fileID: 809313711}
   - component: {fileID: 809313710}
   m_Layer: 5
-  m_Name: Heart (2)
+  m_Name: Heart 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4047,7 +4047,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.4903661}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -215.09988, y: 164}
+  m_AnchoredPosition: {x: -36.59988, y: 260.2}
   m_SizeDelta: {x: 100, y: 95}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &809313710
@@ -4271,7 +4271,7 @@ GameObject:
   - component: {fileID: 972676977}
   - component: {fileID: 972676976}
   m_Layer: 5
-  m_Name: Heart (1)
+  m_Name: Heart 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4294,7 +4294,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.4903661}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -257.99988, y: 164}
+  m_AnchoredPosition: {x: -79.49988, y: 260.2}
   m_SizeDelta: {x: 100, y: 95}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &972676976
